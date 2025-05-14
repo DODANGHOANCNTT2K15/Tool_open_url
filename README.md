@@ -22,7 +22,10 @@ username3
 '''
 ## ⚙️ How to use?
 1. **Run the program:** Make sure you have Python 3 installed.
-2. **Enter information:**
+2. **Install the required libraries**
+'''bash
+pip install tkinter csv webbrowser messagebox
+3. **Enter information:**
 - `Begin`: the line to start opening the link (default is 1).
 - `Skip`: the number of links to open each time (default is 5).
 3. **Click “Get information”** to confirm.
