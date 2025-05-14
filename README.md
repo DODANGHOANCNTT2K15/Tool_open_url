@@ -15,16 +15,17 @@ This is a small GUI application using `tkinter`, which allows you to open multip
 - Press **Continue** to open the next group of links.
 ## 📦 Csv structure
 The CSV file needs to be in a format where each line contains a **TikTok username**, for example:
-'''
+```
 username1
 username2
 username3
-'''
+```
 ## ⚙️ How to use?
 1. **Run the program:** Make sure you have Python 3 installed.
 2. **Install the required libraries**
-'''bash
+```bash
 pip install tkinter csv webbrowser messagebox
+```
 3. **Enter information:**
 - `Begin`: the line to start opening the link (default is 1).
 - `Skip`: the number of links to open each time (default is 5).
