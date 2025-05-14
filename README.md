@@ -1,7 +1,5 @@
 # Open multiple tiktok urls continuously
-
 This is a small GUI application using `tkinter`, which allows you to open multiple TikTok links from a CSV file. Each run will open a certain number of links, making it easier for you to manage your link browsing.
-
 ## 📦 Library request
 - `tkinter`: Create user interface.
 - `csv`: Read CSV file.
